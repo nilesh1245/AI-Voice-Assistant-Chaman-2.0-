@@ -1,2 +1,23 @@
-# AI-Voice-Assistant-Chaman-2.0-
-Created a smart voice assistant using Python capable of performing system-level automation, web browsing, and AI-based conversations using a local LLM (Ollama). Implemented wake word detection and real-time speech processing.
+# 🤖 Chaman 2.0 - AI Voice Assistant
+
+A Python-based voice assistant that can control your system, perform web automation, and chat using an offline AI model (Ollama).
+
+## 🚀 Features
+- Voice command recognition
+- Open apps (Notepad, Chrome, Calculator)
+- Control system (shutdown, restart, volume)
+- YouTube search and music play
+- Screenshot capture
+- AI chat using Ollama (Mistral model)
+- Wake word detection ("Chaman")
+
+## 🛠️ Tech Stack
+- Python
+- SpeechRecognition
+- pyttsx3
+- PyAutoGUI
+- Ollama (Mistral)
+
+## ▶️ How to Run
+1. Install Python 3.10+
+2. Install dependencies:
